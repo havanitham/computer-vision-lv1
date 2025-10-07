@@ -3,8 +3,7 @@ import numpy as np
 
 def count_pills_opencv(image_path, display_size=(600, 400)):
     """
-    Counts the number of pills in an image using classical computer vision techniques.
-    No AI/ML is used, only OpenCV algorithms (thresholding, morphology, watershed).
+    Counts the number of pills in an image using computer vision techniques.
     
     Parameters:
         image_path (str): Path to the input image.
