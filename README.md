@@ -25,8 +25,8 @@ It **does not use AI or machine learning**. Instead, it relies on image processi
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/pill-counting-opencv.git
-cd pill-counting-opencv
+git clone https://github.com/your-username/computer-vision-lv1.git
+cd computer-vision-lv1
 ```
 
 ### 2. Install requirements
@@ -40,5 +40,5 @@ pip install opencv-python numpy
 ### 3. Run the script
 
 ```bash
-python count_pills.py
+python counting_pills.py
 ```
