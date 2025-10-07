@@ -8,7 +8,6 @@ Instead, it relies on image processing algorithms like **thresholding, morpholog
 * Works on pill images of different **shapes, sizes, and colors**.
 * Uses a **single algorithm** for all images (no hardcoding per image).
 * Visualizes each detected pill with a **bounding box and number label**.
-* Follows the requirement: **no AI used**.
 
 ## Techniques Used
 
