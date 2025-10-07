@@ -1,7 +1,6 @@
 # Pill Counting using OpenCV
 
 This project detects and counts the number of pills in an image using **classical computer vision techniques** with OpenCV.
-Instead, it relies on image processing algorithms like **thresholding, morphology, distance transform, and watershed segmentation**.
 
 ## Features
 
