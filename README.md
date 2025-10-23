@@ -23,6 +23,6 @@ To get started, clone this project to your computer:
 - OpenCV 4.x installed on your system  
 
 ## Reference
-https://www.geeksforgeeks.org/computer-vision/count-number-of-object-using-python-opencv/#
-https://docs.opencv.org/4.x/d1/dfb/intro.html
+- https://www.geeksforgeeks.org/computer-vision/count-number-of-object-using-python-opencv/#
+- https://docs.opencv.org/4.x/d1/dfb/intro.html
 ---
