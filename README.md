@@ -12,11 +12,14 @@ This is a project to detect pills in images using OpenCV.
 6. Show the number of pills detected
    
 ---
+---
 
 ## 🧑‍💻 Clone the Repository
 To get started, clone this project to your computer:
+```bash
 git clone https://github.com/havanitham/computer-vision-lv1.git
 cd computer-vision-lv1
+
 
 
 ## Requirements
