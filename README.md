@@ -11,8 +11,6 @@ This is a project to detect pills in images using OpenCV.
 5. Find and draw **contours** around pills  
 6. Show the number of pills detected
    
----
-
 ## Clone the Repository
 To get started, clone this project to your computer:
 
