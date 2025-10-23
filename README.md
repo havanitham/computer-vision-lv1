@@ -16,8 +16,8 @@ This is a project to detect pills in images using OpenCV.
 ## Clone the Repository
 To get started, clone this project to your computer:
 
-git clone https://github.com/havanitham/computer-vision-lv1.git
-cd computer-vision-lv1
+- git clone https://github.com/havanitham/computer-vision-lv1.git
+- cd computer-vision-lv1
 
 
 ## Requirements
