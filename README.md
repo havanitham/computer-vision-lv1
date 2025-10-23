@@ -1,7 +1,6 @@
 # Pill Detection using OpenCV (C++)
 
 This is a project to detect pills in images using OpenCV.  
----
 
 ## Steps Performed
 1. Read multiple images from a list  
