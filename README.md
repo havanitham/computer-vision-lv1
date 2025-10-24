@@ -26,3 +26,7 @@ To get started, clone this project to your computer:
 - https://docs.opencv.org/4.x/d1/dfb/intro.html
 ---
 
+## Output Demo
+
+<video src="https://github.com/user-attachments/assets/e18b0616-3904-4a5d-94bc-94e2eaa4f842" controls width="640">
+</video>
